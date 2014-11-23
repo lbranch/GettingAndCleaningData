@@ -5,7 +5,7 @@
 
 **INTRODUCTION**
 
-This project deals with obtaining and cleaning data sets. The goal is to prepare a tidy data that can be used for later analysis. The source data set represents data collected from accelerometers and gyroscopes from the Samsung Galaxy S smartphone. 
+This project deals with obtaining and cleaning data sets. The goal is to prepare a tidy data set that can be used for later analysis. The source data set represents data collected from accelerometers and gyroscopes from the Samsung Galaxy S smartphone. 
 
 **DATA SOURCE**
 
@@ -83,6 +83,8 @@ tBodyGyroJerkMean
 
 *Data Table Structure*
 ----------------------
+
+Data File Name: tidyset.txt
 
 | Column Name               | Data Type | Description                                                                                               |
 |---------------------------|-----------|-----------------------------------------------------------------------------------------------------------|
